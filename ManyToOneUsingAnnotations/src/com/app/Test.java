@@ -16,7 +16,9 @@ public class Test {
 		Vendor v=new Vendor();
 		v.setVid(102);
 		v.setVname("krishna");
-
+       
+		
+		System.out.println("hello github");
 		Customers c=new Customers();
 		c.setCid(21);
 		c.setCname("raju");
